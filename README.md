@@ -28,6 +28,10 @@ Automates readmission probability estimation on a real-time flow of clinical epi
 - [AI Robotization with InterSystems IRIS Data Platform](https://www.linkedin.com/pulse/ai-robotization-intersystems-iris-data-platform-sergey-lukyanchikov/) as of March 15th, 2020
 - [MLOps can help overcome risk in AI and ML projects](https://dataconomy.com/2019/10/mlops-can-help-overcome-risk-in-ai-and-ml-projects/) as of October 30th, 2019
 - [Python Gateway](https://community.intersystems.com/post/python-gateway-part-i-introduction) as of 12 April 2019
+- [SAP BW Data Mining Analytics: Clustering Reporting](https://www.linkedin.com/pulse/sap-bw-data-mining-analytics-clustering-reporting-sergey-lukyanchikov) as of 11 June 2011
+- [SAP BW Data Mining Analytics: Regression Reporting](https://www.linkedin.com/pulse/sap-bw-data-mining-analytics-regression-reporting-sergey-lukyanchikov) as of 2 June 2011
+- [SAP BW Data Mining Analytics: Process Reporting](https://www.linkedin.com/pulse/sap-bw-data-mining-analytics-process-reporting-sergey-lukyanchikov) as of 28 May 2011
+- [SAP BW Data Mining Analytics: Model Reporting](https://www.linkedin.com/pulse/sap-bw-data-mining-analytics-model-reporting-sergey-lukyanchikov) as of 19 May 2011
 
 ## Collaboration Experiences
 
