@@ -4,6 +4,12 @@
 
 Healthcare AI:
 
+- No-Show Prevention
+
+Automates no-show probability estimation on a real-time flow of appointments.
+
+![No-Show Prevention](Healthcare_AI_NOSHOWS_01.png)
+
 - Readmission Prediction
 
 Automates readmission probability estimation on a real-time flow of clinical episodes.
