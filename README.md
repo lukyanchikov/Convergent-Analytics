@@ -4,7 +4,7 @@
 
 Model Training Navigator (MTN):
 
-- Learning from history of the accuracy metrics resulting from model testing - and suggesting hyperparameters for model training (at a given level of minimum expected accuracy):
+- Learning from history of the accuracy metrics resulting from model testing - and suggesting (using GAN, generative adversarial networks) hyperparameters for model training (at a given level of minimum expected accuracy):
 
 ![Generated Hyperparameter Substitution](InterSystemsIRISModelTrainingNavigator.png)
 
