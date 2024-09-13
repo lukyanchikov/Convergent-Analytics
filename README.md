@@ -1,5 +1,21 @@
 # Featured Materials
 
+## Advanced Solution Features Developed Using Convergent Analytics ML Toolkit Framework:
+
+Model Training Navigator (MTN):
+
+- Learning from history of the accuracy metrics resulting from model testing - and suggesting hyperparameters for model training (at a given level of minimum expected accuracy):
+
+![Generated Hyperparameter Substitution](InterSystemsIRISModelTrainingNavigator.png)
+
+- Achieving the expected accuracy using MTN in No-Show Prevention solution:
+
+![Expected Accuracy Achieved in No-Shows](InterSystemsIRISModelTrainingNavigator1.png)
+
+- Achieving the expected accuracy using MTN in Readmission Prevention solution:
+
+![Expected Accuracy Achieved in Readmission](InterSystemsIRISModelTrainingNavigator2.png)
+
 ## Solutions Developed Using Convergent Analytics ML Toolkit Framework:
 
 Healthcare AI:
