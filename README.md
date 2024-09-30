@@ -2,7 +2,7 @@
 
 ## Breaking News
 
-[jBPM](https://www.jbpm.org/) orchestrating [Python](https://pypi.org/project/jep/3.3.3/). Open source from A to Z, zero customization. To be continued...
+[jBPM](https://www.jbpm.org/) orchestrating [Python](https://pypi.org/project/jep/3.3.3/). Open source from A to Z, zero customization required to begin. To be continued...
 
 ![jBPM orchestrating Python](Cannibalization.png)
 
