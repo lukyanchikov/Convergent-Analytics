@@ -1,5 +1,11 @@
 # Featured Materials
 
+## Breaking News
+
+[jBPM](https://www.jbpm.org/) orchestrating [Python](https://pypi.org/project/jep/3.3.3/). Open source from A to Z, zero customization. To be continued...
+
+![jBPM orchestrating Python](Cannibalization.png)
+
 ## Advanced Solution Features Developed Using Convergent Analytics ML Toolkit Framework:
 
 Model Training Navigator (MTN):
