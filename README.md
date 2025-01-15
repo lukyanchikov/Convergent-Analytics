@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="MDmyf0OSe34qsh_U1DTShmG2NmjbQvUhYjU_1wpyVj4" />
 # Featured Materials
 
 ## Breaking News
